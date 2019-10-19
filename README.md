@@ -5,4 +5,4 @@ In this project the aim was to create a moisture sensor LoRa node that updated t
 
 Below is a Fritzing breadboard of the project.
 
-
+![fritzing breadboard](https://github.com/rowdy15/moisture-sensor-using-LoRa/blob/master/MoistureSensor_simple_bb.png)
